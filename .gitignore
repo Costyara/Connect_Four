@@ -1,0 +1,23 @@
+# Project exclude paths
+/.gradle/
+/Connect Four/task/build/
+/Connect Four/task/out/production/classes/
+/Connect Four/task/out/test/classes/
+/Topics/Debugging techniques/Find the error/out/
+/Topics/Debugging techniques/Find the error/out/production/classes/
+/Topics/If expression/Check a number is positive/out/
+/Topics/If expression/Check a number is positive/out/production/classes/
+/Topics/If expression/Find the output/out/
+/Topics/If expression/Find the output/out/production/classes/
+/Topics/If expression/The max of two numbers without else-branch/out/
+/Topics/If expression/The max of two numbers without else-branch/out/production/classes/
+/Topics/List/Number of occurrences/out/
+/Topics/List/Number of occurrences/out/production/classes/
+/Topics/Regexps/Backslash problem/out/
+/Topics/Regexps/Backslash problem/out/production/classes/
+/Topics/Regexps/Different colo(u)rs/out/
+/Topics/Regexps/Different colo(u)rs/out/production/classes/
+/Topics/Regexps/Escapism/out/
+/Topics/Regexps/Escapism/out/production/classes/
+/Topics/Regexps/Rings of Power/out/
+/Topics/Regexps/Rings of Power/out/production/classes/
